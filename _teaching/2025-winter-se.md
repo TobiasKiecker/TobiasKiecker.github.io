@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-winter-se
 venue: "Humboldt-Universität zu Berlin, Software Engineering"
-date: 2025/26
+date: 2025-10-01
 location: "Berlin, Germany"
 ---
 
