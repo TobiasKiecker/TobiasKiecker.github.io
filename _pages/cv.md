@@ -11,9 +11,6 @@ redirect_from:
 
 Education
 ======
-* M.S. Humboldt-Universität zu Berlin, 2014
-* B.S. Humboldt-Universität zu Berlin, 2020
-
-Work experience
-======
+* M.Sc. Humboldt-Universität zu Berlin, Jan 2024
+* B.Sc. Humboldt-Universität zu Berlin, Dec 2020
 
