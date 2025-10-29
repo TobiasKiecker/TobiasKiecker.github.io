@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Software Engineering"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2025-winter-se
+venue: "Humboldt-Universität zu Berlin, Software Engineering"
+date: 2024
+location: "Berlin, Germany"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+[informatik.hu-berlin.de/.../teaching/ws2025/se](https://www.informatik.hu-berlin.de/de/forschung/gebiete/se/teaching/ws2025/se/se)
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
